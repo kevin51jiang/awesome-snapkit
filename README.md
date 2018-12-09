@@ -1,2 +1,9 @@
 # awesome-snapkit
-Literally nothing. Snapkit is terrible.
+
+## This contains all useful snapkit repos - especially useful for hackathons
+
+-
+-
+-
+
+There is literally nothing.
