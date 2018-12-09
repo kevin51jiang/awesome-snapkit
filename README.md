@@ -1,6 +1,6 @@
 # awesome-snapkit
 
-## This contains all useful snapkit repos - especially useful for hackathons
+## Curated list of all things awesome about Snapchat's SnapKit API
 
 -
 -
